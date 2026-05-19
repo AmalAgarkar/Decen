@@ -1,4 +1,4 @@
-# ☁️ Decen — Decentralized File Storage DApp
+# ☁️ Decen — Decentralized File Storage App
 
 Decen is a decentralized file storage application built using React, Node.js, IPFS (Pinata), and Ethereum (ethers.js).  
 It allows users to upload files to IPFS and optionally store file references (CID) on the blockchain.
