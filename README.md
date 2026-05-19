@@ -28,8 +28,8 @@ It allows users to upload files to IPFS and optionally store file references (CI
 
 ## 📁 Project Structure
 
+```tree
 Decen/
-│
 ├── backend/
 │   ├── index.js
 │   ├── package.json
@@ -42,6 +42,7 @@ Decen/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
