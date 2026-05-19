@@ -48,7 +48,7 @@ Decen/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repo
->git clone https://github.com/YOUR_USERNAME/Decen.git
+>git clone https://github.com/AmalAgarkar/Decen.git
 >cd Decen
 
 ### 2. Backend Setup
