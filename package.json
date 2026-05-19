@@ -1,0 +1,29 @@
+{
+  "name": "decentralized-drive",
+  "version": "1.0.0",
+  "description": "Blockchain based cloud storage using IPFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js",
+    "node": "npx hardhat node"
+  },
+  "keywords": [
+    "blockchain",
+    "ipfs",
+    "hardhat",
+    "solidity",
+    "web3"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.28.6"
+  },
+  "dependencies": {
+    "ethers": "^6.16.0"
+  },
+  "type": "commonjs"
+}
