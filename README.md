@@ -1,6 +1,6 @@
-# ☁️ BitCloud — Decentralized File Storage DApp
+# ☁️ Decen — Decentralized File Storage DApp
 
-BitCloud is a decentralized file storage application built using React, Node.js, IPFS (Pinata), and Ethereum (ethers.js).  
+Decen is a decentralized file storage application built using React, Node.js, IPFS (Pinata), and Ethereum (ethers.js).  
 It allows users to upload files to IPFS and optionally store file references (CID) on the blockchain.
 
 ---
@@ -28,7 +28,7 @@ It allows users to upload files to IPFS and optionally store file references (CI
 
 ## 📁 Project Structure
 
-Bitcloud/
+Decen/
 │
 ├── backend/
 │   ├── index.js
@@ -48,19 +48,19 @@ Bitcloud/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repo
-git clone https://github.com/YOUR_USERNAME/BitCloud.git
-cd BitCloud
+>git clone https://github.com/YOUR_USERNAME/Decen.git
+>cd Decen
 
 ### 2. Backend Setup
-cd backend
-npm install
+>cd backend
+>npm install
 
 Create .env:
-PINATA_API_KEY=your_key
-PINATA_SECRET_API_KEY=your_secret
+>PINATA_API_KEY=your_key
+>PINATA_SECRET_API_KEY=your_secret
 
 Run backend:
-node index.js
+>node index.js
 
 Backend runs on:
 http://localhost:5000
