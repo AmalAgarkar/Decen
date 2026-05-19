@@ -53,15 +53,15 @@ Decen/
 >cd Decen
 
 ### 2. Backend Setup
->cd backend
->npm install
+- cd backend
+- npm install
 
 Create .env:
->PINATA_API_KEY=your_key
->PINATA_SECRET_API_KEY=your_secret
+- PINATA_API_KEY=your_key
+- PINATA_SECRET_API_KEY=your_secret
 
 Run backend:
->node index.js
+- node index.js
 
 Backend runs on:
 http://localhost:5000
